@@ -6,12 +6,12 @@ Urban Routes é uma ferramenta avançada que permite criar rotas personalizadas 
 
 Agora, vamos explorar os primeiros projetos que desenvolvemos no Urban Routes:
 
-Teste de Regressão
+<h1>Teste de Regressão</h1>
 Neste primeiro teste, foquei no teste de regressão do Urban Routes. Foi elaborado uma série de casos de teste para garantir que o aplicativo funcionasse corretamente, sem bugs que pudessem comprometer a experiência do usuário.
 
 O objetivo foi executar esses casos de teste, identificar quaisquer bugs e relatar detalhadamente para a equipe de desenvolvimento corrigir rapidamente. Assim, garantir que o Urban Routes permaneça um aplicativo confiável e funcional para todos os usuários.
 
-Teste de Funcionalidade
+<h1>Teste de Funcionalidade</h1>
 No segundo caso de teste, o foco foi nas funcionalidades do Urban Routes, especialmente nas novas adições que tornaram o aplicativo ainda mais robusto.
 
 Inicialmente, criei um mapa mental para organizar as ideias e requisitos para a adição da funcionalidade de carteira de motorista, garantindo que nenhum detalhe importante fosse negligenciado.
@@ -20,8 +20,8 @@ Em seguida, parti para o design de testes, especialmente para o cálculo de temp
 
 O objetivo foi assegurar que todas as novas funcionalidades fossem testadas minuciosamente, garantindo a qualidade e a confiabilidade do aplicativo.
 
-Teste da Funcionalidade de Compartilhamento de Carros
-No terceiro projeto, foquei na funcionalidade de compartilhamento de carros do Urban Routes. O objetivo foi testar essa funcionalidade em dois ambientes diferentes: Google Chrome e Firefox.
+<h1>Teste da Funcionalidade de Compartilhamento de Carros</h1>
+No terceiro caso de teste, foquei na funcionalidade de compartilhamento de carros do Urban Routes. O objetivo foi testar essa funcionalidade em dois ambientes diferentes: Google Chrome e Firefox.
 
 Criei um checklist para o layout do formulário de reserva, assegurando que todos os elementos estivessem corretos, desde a ortografia até a disposição na tela.
 
